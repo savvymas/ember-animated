@@ -1,6 +1,9 @@
 {
   "deploy-testing": {
-    "path": "deploy-testing",
+    "path": [
+      "versions/",
+      "deploy-testing"
+    ],
     "name": "deploy-testing",
     "sha": "bd629d2155260137c0c7ca944ead9537e92f3d7d",
     "tag": null
@@ -12,7 +15,7 @@
     "tag": null
   },
   "latest": {
-    "path": "latest",
+    "path": "deploy-testing",
     "name": "latest",
     "sha": "bd629d2155260137c0c7ca944ead9537e92f3d7d",
     "tag": null
