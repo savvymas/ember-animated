@@ -6,13 +6,13 @@
     "tag": null
   },
   "sample-old-version": {
-    "path": "versions",
+    "currPath": "versions/sample-old-version",
     "name": "sample-old-version",
     "sha": "bd629d2155260137c0c7ca944ead9537e92f3d7d",
     "tag": null
   },
   "latest": {
-    "path": "deploy-testing",
+    "path": "sample-old-version",
     "name": "latest",
     "sha": "bd629d2155260137c0c7ca944ead9537e92f3d7d",
     "tag": null
