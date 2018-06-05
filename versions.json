@@ -10,7 +10,7 @@
   },
   "sample-old-version": {
     "path": [
-      "versions/",
+      "versions",
       "sample-old-version"
     ],
     "name": "sample-old-version",
